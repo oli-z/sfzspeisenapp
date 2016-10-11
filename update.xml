@@ -3,4 +3,9 @@
     <latestVersion>1.2.2</latestVersion>
     <url>https://github.com/javiersantos/AppUpdater/releases</url>
   </update>
+      <releaseNotes>
+- First evolution
+- Second evolution
+- Bug fixes
+    </releaseNotes>
 </AppUpdater>
