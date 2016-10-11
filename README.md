@@ -1,0 +1,1 @@
+Zurzeit nur zum Verteilen der Binary und für Updates genutzt; Source bei Bedarf irgendwann noch. Ist ein einziges Code-Chaos und ich hab zu viel zu tun um das "GitHub-freundlich" zu machen (API-Keys etc. entfernen).
