@@ -1,6 +1,6 @@
 <AppUpdater>
   <update>
-    <latestVersion>3</latestVersion>
+    <latestVersion>4</latestVersion>
     <url>https://github.com/oli-z/sfzspeiseplan/raw/master/sfz.apk</url>
   </update>
 </AppUpdater>
